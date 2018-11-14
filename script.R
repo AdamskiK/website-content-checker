@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript --vanilla
-source("credentials.R")s
+source("credentials.R")
 library("mailR")
 
 ### define functions
